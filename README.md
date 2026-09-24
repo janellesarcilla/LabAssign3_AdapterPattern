@@ -1,4 +1,4 @@
-# LabAssign3_AdapterPattern
+# Laboratory Assignment 3 Adapter Pattern
 
 ## Plugging Devices into Power Outlets
 
